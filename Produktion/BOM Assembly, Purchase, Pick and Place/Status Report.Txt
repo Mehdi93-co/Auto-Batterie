@@ -1,0 +1,10 @@
+Output: BOM Assemble
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Battery_Schaltregler_[V100].PrjPcb]
+   Generated File[Battery_Schaltregler_[V100]_[No Variations]_2022-01-25_BOM Assemble.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:41:35 On 25.01.2022
